@@ -69,7 +69,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/Aventardo7777/minesweeper-x.git
+git clone  https://aventardo7777.github.io/minesweeper-x/
 
 # 进入项目目录
 cd minesweeper-x
