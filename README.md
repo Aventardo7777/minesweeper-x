@@ -69,7 +69,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourname/minesweeper-x.git
+git clone https://github.com/Aventardo7777/minesweeper-x.git
 
 # 进入项目目录
 cd minesweeper-x
@@ -91,7 +91,7 @@ npx http-server -p 8000
 
 ### 方式三：在线体验
 
-访问 GitHub Pages 部署版本：[Demo Link](https://yourname.github.io/minesweeper-x/)
+访问 GitHub Pages 部署版本：[Demo Link](https://Aventardo7777.github.io/minesweeper-x/)
 
 ---
 
@@ -442,7 +442,7 @@ SOFTWARE.
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourname/minesweeper-x&type=Date)](https://star-history.com/#yourname/minesweeper-x&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Aventardo7777/minesweeper-x&type=Date)](https://star-history.com/#Aventardo7777/minesweeper-x&Date)
 
 ---
 
@@ -450,7 +450,7 @@ SOFTWARE.
 
 **如果这个项目对你有帮助，请给一个 ⭐ Star！**
 
-Made with ❤️ by [YourName](https://github.com/yourname)
+Made with ❤️ by [Aventardo7777](https://github.com/Aventardo7777)
 
 ---
 
